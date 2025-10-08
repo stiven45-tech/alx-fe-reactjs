@@ -1,0 +1,4 @@
+npm create vite@latest react-query-demo -- --template react
+cd react-query-demo
+npm install @tanstack/react-query
+npm install
