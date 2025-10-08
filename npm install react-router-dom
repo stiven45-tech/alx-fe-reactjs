@@ -1,0 +1,4 @@
+npm create vite@latest react-router-advanced -- --template react
+cd react-router-advanced
+npm install react-router-dom
+npm install
