@@ -1,0 +1,3 @@
+npm create vite@latest form-handling-react -- --template react
+cd form-handling-react
+npm install
